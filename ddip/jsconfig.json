@@ -6,7 +6,7 @@
       "@home/*": ["app/feature/home/*"],
       "@constants/*": ["constants/*"],
       "@app/*": ["app/*"],
-      "@lib/*": ["app/lib/*"],
+      "@lib/*": ["lib/*"],
       "@auth/*": ["app/feature/auth/*"],
       "@components/*": ["app/components/*"]
     }
