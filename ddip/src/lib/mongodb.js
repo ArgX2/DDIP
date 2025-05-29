@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { MongoClient } from 'mongodb';
 
 const uri = process.env.MONGODB_URI;
@@ -17,3 +18,6 @@ if (!global._mongoClientPromise) {
 clientPromise = global._mongoClientPromise;
 
 export default clientPromise;
+=======
+
+>>>>>>> origin/main
