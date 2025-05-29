@@ -7,7 +7,9 @@
       "@constants/*": ["constants/*"],
       "@app/*": ["app/*"],
       "@auth/*": ["app/feature/auth/*"],
-      "@components/*": ["app/components/*"]
+      "@components/*": ["app/components/*"],
+      "@lib/*": ["/app/lib/*"]
     }
-  }
+  },
+  "include": ["src/**/*", "next-env.d.js"]
 }
